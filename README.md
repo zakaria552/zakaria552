@@ -12,4 +12,3 @@ Software developer · student @ **Hive** · studying C & C++ · passionate about
 | miniRT | Multi-threaded interactive raytracer engine | C |
 | minishell | a POSIX shell with piping, redirections, env variables, and built-in commands | C |
 | so_long | 2D tile-based game - parsing, sprite animation, enemy-AI, collectables and vision effect | C |
-| ... | ... | ... |
