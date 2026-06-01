@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, i'm zakaria 👾
+Software developer · student @ **Hive** · studying C & C++ · passionate about graphics programming, game architecture, and building things close to the metal.
 
-<!--
-**zakaria552/zakaria552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech stack
+`C` `C++` `JavaScript` `Python` `Bash` `OpenGl` `Make` `React` `Express.js` `NGINX` `Docker`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+| project | description | language |
+|---|---|---|
+| IRC server | Compliant with modern IRC clients supporting private messages, channels, and operators over TCP | c++ |
+| gl-sandbox | OpenGL renderer sandbox, interactively tweak objects in realtime | C++,OpenGl |
+| miniRT | Multi-threaded interactive raytracer engine | C |
+| minishell | a POSIX shell with piping, redirections, env variables, and built-in commands | C |
+| so_long | 2D tile-based game - parsing, sprite animation, enemy-AI, collectables and vision effect | C |
+| ... | ... | ... |
