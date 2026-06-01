@@ -7,7 +7,7 @@ Software developer · student @ **Hive** · studying C & C++ · passionate about
 ## Featured projects
 | project | description | language |
 |---|---|---|
-| IRC server | Compliant with modern IRC clients supporting private messages, channels, and operators over TCP | c++ |
+| IRC server | Compliant with modern IRC clients supporting private messages, channels, and operators over TCP | C++ |
 | gl_sandbox | OpenGL renderer sandbox, interactively tweak objects in realtime | C++,OpenGl |
 | miniRT | Multi-threaded interactive raytracer engine | C |
 | minishell | a POSIX shell with piping, redirections, env variables, and built-in commands | C |
