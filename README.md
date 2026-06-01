@@ -1,4 +1,4 @@
-## Hi, i'm zakaria 👾
+## Hi, I'm zakaria 👾
 Software developer · student @ **Hive** · studying C & C++ · passionate about graphics programming, game architecture, and building things close to the metal.
 
 ## Tech stack
