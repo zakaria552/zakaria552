@@ -10,5 +10,5 @@ Software developer · student @ **Hive** · studying C & C++ · passionate about
 | [IRC server](https://github.com/zakaria552/IRC-server) | Compliant with modern IRC clients supporting private messages, channels, and operators over TCP | C++ |
 | [gl-sandbox](https://github.com/zakaria552/gl-sandbox) | OpenGL renderer sandbox, interactively tweak objects in realtime | C++,OpenGl |
 | [miniRT](https://github.com/etherstep/Ray-Tracer) | Multi-threaded interactive raytracer engine | C |
-| [minishell](https://github.com/zakaria552/minishell) | a POSIX shell with piping, redirections, env variables, and built-in commands | C |
+| [minishell](https://github.com/zakaria552/minishell) | Reimplementation of a subset of POSIX shell | C |
 | [so_long](https://github.com/zakaria552/so_long) | 2D tile-based game - parsing, sprite animation, enemy-AI, collectables and vision effect | C |
